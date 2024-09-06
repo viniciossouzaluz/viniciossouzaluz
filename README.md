@@ -1,16 +1,14 @@
-## Hi there 👋
+*BOAS VINDAS A MEU PERFIL*
 
-<!--
-**viniciossouzaluz/viniciossouzaluz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome e vinicios
 
-Here are some ideas to get you started:
+- Eu estudo na [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me densevolvendo na linguagem javascript
+
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+
+*Voce pode entrar em contato comigo* 📧
+
+0000111556092xsp@al.educacao.sp.gov.br
+
